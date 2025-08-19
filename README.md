@@ -43,15 +43,7 @@ A comprehensive web application for analyzing, tracking, and visualizing stock m
    cd Stock-DashBoard
    ```
 
-2. **Backend Setup (Python):**
-   - Create a virtual environment (recommended):
-     ```bash
-     python -m venv venv
-     source venv/bin/activate  # On Windows: venv\Scripts\activate
-     ```
-   - Install dependencies:
-     ```bash
-     pip install -r requirements.txt
+
      ```
 
 3. **Frontend Setup (if applicable):**

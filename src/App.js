@@ -41,7 +41,7 @@ function App() {
         console.log("Fetching stock data for symbols:", symbols);
 
         const results = await Promise.all(
-          symbols.slice(0, 1).map(async (sym) => {
+          symbols.slice(0, 4).map(async (sym) => {
             try {
               const res = await fetch(
                 `https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=${sym}&apikey=${API_KEY}`
