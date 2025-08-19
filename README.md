@@ -20,11 +20,20 @@ A comprehensive web application for analyzing, tracking, and visualizing stock m
 
 ## Getting Started
 
+## Technologies Used
+
+- [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- JavaScript (ES6+)
+- [Chart.js](https://www.chartjs.org/) or [Recharts](https://recharts.org/) (if used for data visualization)
+- External stock market API (e.g., Yahoo Finance, Alpha Vantage, or similar)
+
+## Getting Started
+
 ### Prerequisites
 
-- [Python 3.x](https://www.python.org/downloads/)
-- [Node.js & npm](https://nodejs.org/) (if using a frontend framework like React)
-- [pip](https://pip.pypa.io/en/stable/installation/) for Python package management
+- [Node.js](https://nodejs.org/) (v16 or newer recommended)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 ### Installation
 
